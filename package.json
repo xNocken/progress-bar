@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "dependencies": {
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
